@@ -1,0 +1,6 @@
+streamlit
+pvlib
+geopy
+timezonefinder
+matplotlib
+pandas
